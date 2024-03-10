@@ -5,6 +5,6 @@ void main() {
   Media media = Media();
   media.play();
 
-  Song song = Song("Artist Name");
+  Song song = Song("Arjit sing");
   song.play();
 }

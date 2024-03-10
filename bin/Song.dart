@@ -8,6 +8,6 @@ class Song extends Media {
 
   @override
   void play() {
-    print("Playing song by $artist...");
+    print("Playing song by $artist");
   }
 }
